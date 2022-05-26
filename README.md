@@ -5,3 +5,10 @@ A Deep learning project that automatically generates captions for images using F
 ## About Dataset
 
 This dataset consisting of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events.
+
+## To run this project please follow this steps:
+
+* Download and extract this whole project
+* Create a folder named 'ColabNotebooks' in root directory of your Google Drive.
+* Then upload extracted version of project into the 'ColabNotebooks' folder
+* Now create a notebook in  Google Colab by your preferred name, and paste all shells from Caption.ipynb
