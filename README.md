@@ -4,7 +4,7 @@ A Deep learning project that automatically generates captions for images using F
 
 ## About Dataset
 
-This dataset consisting of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events.  Download the dataset from here https://www.kaggle.com/datasets/adityajn105/flickr8k.
+This dataset consisting of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events.  Download the dataset from here https://www.kaggle.com/datasets/adityajn105/flickr8k. Then place it inside the "Flicker8k_Dataset" folder
 
 ## To run this project please follow this steps:
 
